@@ -1,5 +1,7 @@
 <div align="center">
 
+[简体中文](README.md) | [English](README_EN.md)
+
 # LLM API Price Watch
 
 本仓库用于记录主流大模型 API 在不同供应商处的价格和调用限额。
